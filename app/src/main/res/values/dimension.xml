@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="header">28sp</dimen>
+    <dimen name="title">20sp</dimen>
+    <dimen name="description">16sp</dimen>
+    <dimen name="small_print">12sp</dimen>
+    <dimen name="medium">18sp</dimen>
+
+</resources>

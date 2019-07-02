@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">reward_squared</string>
+
+    <!-- Firebase messages -->
+    <string name="auth_failed">Failed to Authenticate</string>
+    <string name="auth_success">Authentication Success</string>
+
+    <!-- Firebase database fields -->
+    <string name="dbname_users">users</string>
+    <string name="dbname_user_account_settings">user_account_settings</string>
+    <string name="field_username">username</string>
+    <string name="field_email">email</string>
+    <string name="field_admin">admin</string>
+
+    <string name="extra_email_verification">extra email</string>
+
+    <string name="activate_fragment_key">execute order 666</string>
+
+    <string name="verification_email">Verification e-mail sent, Please check your inbox</string>
+</resources>
